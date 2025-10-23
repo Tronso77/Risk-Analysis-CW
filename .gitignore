@@ -1,9 +1,26 @@
+# Byte-compiled / cache files
 __pycache__/
-.ipynb_checkpoints/
+*.py[cod]
+*.pyo
+
+# Virtual environments
 .venv/
+.env/
+env/
+venv/
+
+# Jupyter Notebook artifacts
+.ipynb_checkpoints/
+*.nbconvert.tmp
+
+# Tooling caches
+.pytest_cache/
 .mypy_cache/
-*.pyc
-q1.m
-q5_1.m
-q5_3.m
-q4.m
+
+# OS and editor cruft
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.code-workspace
+
