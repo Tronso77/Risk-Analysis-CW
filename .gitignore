@@ -3,7 +3,8 @@ __pycache__/
 .venv/
 .mypy_cache/
 *.pyc
-q1.m
-q5_1.m
-q5_3.m
-q4.m
+
+/Users/fabricesashinkumar/Desktop/GitHub/RiskAnalysis/Risk-Analysis-CW/q1.m
+/Users/fabricesashinkumar/Desktop/GitHub/RiskAnalysis/Risk-Analysis-CW/q4.m
+/Users/fabricesashinkumar/Desktop/GitHub/RiskAnalysis/Risk-Analysis-CW/q5_1.m
+/Users/fabricesashinkumar/Desktop/GitHub/RiskAnalysis/Risk-Analysis-CW/q5_3.m   
