@@ -4,7 +4,3 @@ __pycache__/
 .mypy_cache/
 *.pyc
 *.DS_Store
-q1.m
-q4.m
-q5_1.m
-q5_3.m
